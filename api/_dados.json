@@ -1,0 +1,245 @@
+{
+  "cliente": "Dra. Luizzi Di Moraes",
+  "whatsapp": "5521992206682",
+  "implantacao": {
+    "etapas": [
+      {
+        "nome": "Estruturação do funil",
+        "descricao": "Página e quiz de agendamento (miomas e ginecologia regenerativa), linha estratégica e engenharia das ofertas principais.",
+        "progresso": 100,
+        "status": "concluido"
+      },
+      {
+        "nome": "Fluxo de mensagens no direct",
+        "descricao": "Fluxo que recebe quem vem dos carrosséis, stories e destaques e leva para a concierge.",
+        "progresso": 100,
+        "status": "concluido"
+      },
+      {
+        "nome": "Carrosséis qualificadores",
+        "descricao": "6 de 10 carrosséis prontos. Os demais seguem as datas combinadas.",
+        "progresso": 60,
+        "status": "em_andamento"
+      },
+      {
+        "nome": "Impulsionados no ar",
+        "descricao": "Rodando desde 16/11. Os resultados levam mais tempo para aparecer.",
+        "progresso": 100,
+        "status": "concluido"
+      },
+      {
+        "nome": "Sequências de destaques",
+        "descricao": "1 de 2 sequências pronta. Os destaques levam para o WhatsApp da concierge.",
+        "progresso": 50,
+        "status": "em_andamento"
+      },
+      {
+        "nome": "Stories 3x por semana",
+        "descricao": "1 de 3 sequências da semana. Stories 3x por semana para gerar picos de agendamento.",
+        "progresso": 33,
+        "status": "em_andamento"
+      }
+    ],
+    "registros": [
+      {
+        "data": "16/11/2026",
+        "texto": "Impulsionados no ar."
+      },
+      {
+        "data": "08/11/2026",
+        "texto": "Fluxo de mensagens no direct pronto."
+      },
+      {
+        "data": "07/11/2026",
+        "texto": "Estrutura pronta: página e quiz, linha estratégica, engenharia das ofertas principais e o primeiro carrossel."
+      },
+      {
+        "data": "04/11/2026",
+        "texto": "Início da implantação."
+      }
+    ]
+  },
+  "drive": {
+    "itens": [
+      {
+        "id": "carrossel-01",
+        "titulo": "Carrossel 01",
+        "pasta": "Qualificadores",
+        "tipo": "Carrossel",
+        "status": "em_revisao",
+        "legenda": "“Não sei mais o que é acordar sem sangrar” é uma frase que a gente já ouviu no consultório.\nQuem chega até nós muitas vezes já ouviu que o jeito é tirar o útero.\nExiste uma terceira saída, e a gente faz isso o tempo inteiro.\nEscreva AVALIAÇÃO no meu Direct e minha concierge entra em contato contigo. Sem exposição.",
+        "slides": [
+          "/carrosseis/carrossel-01/01.jpg",
+          "/carrosseis/carrossel-01/02.jpg",
+          "/carrosseis/carrossel-01/03.jpg",
+          "/carrosseis/carrossel-01/04.jpg",
+          "/carrosseis/carrossel-01/05.jpg",
+          "/carrosseis/carrossel-01/06.jpg",
+          "/carrosseis/carrossel-01/07.jpg",
+          "/carrosseis/carrossel-01/08.jpg",
+          "/carrosseis/carrossel-01/09.jpg",
+          "/carrosseis/carrossel-01/10.jpg"
+        ]
+      },
+      {
+        "id": "carrossel-02",
+        "titulo": "Carrossel 02",
+        "pasta": "Qualificadores",
+        "tipo": "Carrossel",
+        "status": "em_revisao",
+        "legenda": "Te ofereceram duas saídas: aguentar o sangramento ou tirar o útero.\nExiste uma terceira, e a gente faz isso o tempo inteiro.\nEscreva AVALIAÇÃO no meu Direct e minha concierge entra em contato contigo. Sem exposição. Presencial ou online.",
+        "slides": [
+          "/carrosseis/carrossel-02/01.jpg",
+          "/carrosseis/carrossel-02/02.jpg",
+          "/carrosseis/carrossel-02/03.jpg",
+          "/carrosseis/carrossel-02/04.jpg",
+          "/carrosseis/carrossel-02/05.jpg",
+          "/carrosseis/carrossel-02/06.jpg",
+          "/carrosseis/carrossel-02/07.jpg",
+          "/carrosseis/carrossel-02/08.jpg",
+          "/carrosseis/carrossel-02/09.jpg",
+          "/carrosseis/carrossel-02/10.jpg"
+        ]
+      },
+      {
+        "id": "carrossel-03",
+        "titulo": "Carrossel 03",
+        "pasta": "Qualificadores",
+        "tipo": "Carrossel",
+        "status": "em_revisao",
+        "legenda": "Convite recusado. Viagem adiada. Reunião remarcada.\nA sua vida não precisa girar em torno do fluxo, e a gente resolve isso o tempo inteiro.\nEscreva AVALIAÇÃO no meu Direct e minha concierge entra em contato contigo. Sem exposição.",
+        "slides": [
+          "/carrosseis/carrossel-03/01.jpg",
+          "/carrosseis/carrossel-03/02.jpg",
+          "/carrosseis/carrossel-03/03.jpg",
+          "/carrosseis/carrossel-03/04.jpg",
+          "/carrosseis/carrossel-03/05.jpg",
+          "/carrosseis/carrossel-03/06.jpg",
+          "/carrosseis/carrossel-03/07.jpg",
+          "/carrosseis/carrossel-03/08.jpg",
+          "/carrosseis/carrossel-03/09.jpg",
+          "/carrosseis/carrossel-03/10.jpg"
+        ]
+      },
+      {
+        "id": "carrossel-04",
+        "titulo": "Carrossel 04",
+        "pasta": "Qualificadores",
+        "tipo": "Carrossel",
+        "status": "em_revisao",
+        "legenda": "Você lidera equipe, agenda e casa. Mas quem manda no seu dia é o sangramento.\nQuem comanda tudo não precisa ser comandada por ele, e a gente resolve isso o tempo inteiro.\nEscreva AVALIAÇÃO no meu Direct e minha concierge entra em contato contigo. Sem exposição.",
+        "slides": [
+          "/carrosseis/carrossel-04/01.jpg",
+          "/carrosseis/carrossel-04/02.jpg",
+          "/carrosseis/carrossel-04/03.jpg",
+          "/carrosseis/carrossel-04/04.jpg",
+          "/carrosseis/carrossel-04/05.jpg",
+          "/carrosseis/carrossel-04/06.jpg",
+          "/carrosseis/carrossel-04/07.jpg",
+          "/carrosseis/carrossel-04/08.jpg",
+          "/carrosseis/carrossel-04/09.jpg",
+          "/carrosseis/carrossel-04/10.jpg"
+        ]
+      },
+      {
+        "id": "carrossel-05",
+        "titulo": "Carrossel 05",
+        "pasta": "Qualificadores",
+        "tipo": "Carrossel",
+        "status": "em_revisao",
+        "legenda": "Você não lembra a última vez que acordou descansada?\nChama de rotina, chama de idade. E se o motivo for o sangramento?\nA gente resolve isso o tempo inteiro.\nEscreva AVALIAÇÃO no meu Direct e minha concierge entra em contato contigo. Sem exposição.",
+        "slides": [
+          "/carrosseis/carrossel-05/01.jpg",
+          "/carrosseis/carrossel-05/02.jpg",
+          "/carrosseis/carrossel-05/03.jpg",
+          "/carrosseis/carrossel-05/04.jpg",
+          "/carrosseis/carrossel-05/05.jpg",
+          "/carrosseis/carrossel-05/06.jpg",
+          "/carrosseis/carrossel-05/07.jpg",
+          "/carrosseis/carrossel-05/08.jpg",
+          "/carrosseis/carrossel-05/09.jpg",
+          "/carrosseis/carrossel-05/10.jpg"
+        ]
+      },
+      {
+        "id": "carrossel-06",
+        "titulo": "Carrossel 06",
+        "pasta": "Qualificadores",
+        "tipo": "Carrossel",
+        "status": "em_revisao",
+        "legenda": "Jantar cancelado. Viagem adiada. Fim de semana perdido.\nVocê não precisa mais faltar à própria vida, e a gente resolve isso o tempo inteiro.\nEscreva AVALIAÇÃO no meu Direct e minha concierge entra em contato contigo. Sem exposição.",
+        "slides": [
+          "/carrosseis/carrossel-06/01.jpg",
+          "/carrosseis/carrossel-06/02.jpg",
+          "/carrosseis/carrossel-06/03.jpg",
+          "/carrosseis/carrossel-06/04.jpg",
+          "/carrosseis/carrossel-06/05.jpg",
+          "/carrosseis/carrossel-06/06.jpg",
+          "/carrosseis/carrossel-06/07.jpg",
+          "/carrosseis/carrossel-06/08.jpg",
+          "/carrosseis/carrossel-06/09.jpg",
+          "/carrosseis/carrossel-06/10.jpg"
+        ]
+      }
+    ]
+  },
+  "stories": [],
+  "entregas": [
+    {
+      "item": "Página e quiz de agendamento (miomas e ginecologia regenerativa)",
+      "status": "entregue",
+      "data": "07/11/2026"
+    },
+    {
+      "item": "Linha estratégica",
+      "status": "entregue",
+      "data": "07/11/2026"
+    },
+    {
+      "item": "Engenharia das ofertas principais",
+      "status": "entregue",
+      "data": "07/11/2026"
+    },
+    {
+      "item": "Primeiro carrossel qualificador",
+      "status": "entregue",
+      "data": "07/11/2026"
+    },
+    {
+      "item": "Fluxo de mensagens no direct",
+      "status": "entregue",
+      "data": "08/11/2026"
+    },
+    {
+      "item": "Carrosséis qualificadores 1 a 6",
+      "status": "entregue"
+    },
+    {
+      "item": "1ª sequência de destaques",
+      "status": "entregue"
+    },
+    {
+      "item": "Impulsionados no ar",
+      "status": "entregue",
+      "data": "16/11/2026"
+    },
+    {
+      "item": "Carrossel 7",
+      "status": "prometido",
+      "previsao": "25/11/2026"
+    },
+    {
+      "item": "Carrosséis 8 a 10",
+      "status": "prometido",
+      "previsao": "28/11/2026"
+    },
+    {
+      "item": "2ª sequência de destaques",
+      "status": "prometido"
+    }
+  ],
+  "parecer": {
+    "texto": "",
+    "atualizado": ""
+  }
+}
